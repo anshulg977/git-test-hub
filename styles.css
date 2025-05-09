@@ -1,0 +1,16 @@
+body {
+  background-color: lightblue;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+  background: -moz-linear-gradient(to right, gray, yellow);
+  align-self: center;
+  height: 100vh;
+  justify-content: center;
+  font-size: 100px;
+  background-color: blueviolet;
+}
+
+
